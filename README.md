@@ -2,10 +2,6 @@
 
 This is a Generative AI-powered tool to **automate the creation of engaging LinkedIn posts** using **LLaMA 3.2**, **LangChain**, **Groq API**, and a **Streamlit interface**. It helps users craft impactful content with just a few clicks — tailored by tone, language, and length.
 
-![Demo](https://img.youtube.com/vi/qZ_J-Xg0QM4/0.jpg)
-
-🔗 [Watch Demo on YouTube](https://www.youtube.com/watch?v=qZ_J-Xg0QM4)
-
 ---
 
 ## ✨ Features
