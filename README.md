@@ -10,14 +10,6 @@ A Gen‑AI tool that automates the creation of LinkedIn posts using LLaMA 3.2, L
 - User‑friendly **Streamlit UI** for effortless interaction :contentReference[oaicite:5]{index=5}  
 - Supports multiple **post lengths** (short/medium/long) and languages (English, Hinglish) :contentReference[oaicite:6]{index=6}
 
-## 📁 Project Structure
-
-├── app.py # Streamlit frontend
-├── generator.py # LLM prompt controller using LangChain
-├── utils/ # Utilities: prompt templates, embeddings, helpers
-├── requirements.txt
-└── README.md
-
 ## 🛠️ Tech Stack
 
 - **LLM**: LLaMA 3.2
