@@ -1,14 +1,32 @@
-# LinkedIn Post Generator Tool 🚀
+# 🚀 LinkedIn Post Generator using LLM + APIs
 
-A Gen‑AI tool that automates the creation of LinkedIn posts using LLaMA 3.2, LangChain, and Streamlit, enabling users to generate on‑brand, professional content instantly.
+This is a Generative AI-powered tool to **automate the creation of engaging LinkedIn posts** using **LLaMA 3.2**, **LangChain**, **Groq API**, and a **Streamlit interface**. It helps users craft impactful content with just a few clicks — tailored by tone, language, and length.
 
-## 🔧 Features
+![Demo](https://img.youtube.com/vi/qZ_J-Xg0QM4/0.jpg)
 
-- Powered by **LLaMA 3.2** (via Groq API) for fast, intelligent text generation :contentReference[oaicite:2]{index=2}  
-- Crafted with **LangChain** for structured prompt chaining and context management :contentReference[oaicite:3]{index=3}  
-- **Custom tone & style** adaptation using few-shot prompting to match user voice :contentReference[oaicite:4]{index=4}  
-- User‑friendly **Streamlit UI** for effortless interaction :contentReference[oaicite:5]{index=5}  
-- Supports multiple **post lengths** (short/medium/long) and languages (English, Hinglish) :contentReference[oaicite:6]{index=6}
+🔗 [Watch Demo on YouTube](https://www.youtube.com/watch?v=qZ_J-Xg0QM4)
+
+---
+
+## ✨ Features
+
+- 🧠 **Powered by LLaMA 3.2 via Groq API** — Fast, intelligent text generation
+- 🔗 **LangChain integration** — Structured and modular prompt chaining
+- 🎯 **Customizable tone, language, and length** — Write like YOU
+- 🌐 **English & Hinglish support**
+- ⚡ **Streamlit UI** — Real-time post creation in under 500ms
+
+---
+
+## 🛠️ Tech Stack
+
+- **LLM**: LLaMA 3.2 (via Groq API)
+- **Prompt Framework**: LangChain
+- **Frontend**: Streamlit
+- **Languages Supported**: English, Hinglish
+- **Others**: Python 3.10+, dotenv
+
+---
 
 ## 🛠️ Tech Stack
 
